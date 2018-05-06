@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://orig00.deviantart.net/9749/f/2015/203/9/e/it_s_burgie__by_wazzaldorp-d92cr5d.png");
+  background-color: bisque;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 350px;
+  margin-right: 200px;
+  background-attachment: fixed;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
